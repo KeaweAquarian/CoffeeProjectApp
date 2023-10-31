@@ -130,6 +130,7 @@ public class CoffeeMakerTest {
 	 * 		the coffee costs
 	 * Then we get the correct change back.
 	 */
+	//Successful test
 	@Test
 	public void testMakeCoffee() {
 		coffeeMaker.addRecipe(recipe1);
